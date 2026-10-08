@@ -1,0 +1,2 @@
+import{c as e}from"./createLucideIcon-4UW2MHd2.js";import{t}from"./Breadcrumbs-Dq2cmMts.js";import{t as n}from"./library-big-D-iGXSe9.js";var r=e();function i(){return(0,r.jsxs)(`div`,{className:`flex flex-col gap-5`,children:[(0,r.jsx)(t,{items:[{label:`Blog`,icon:n}]}),(0,r.jsx)(`div`,{children:`Blog Page`})]})}export{i as default};
+//# sourceMappingURL=BlogPage-DI49cZab.js.map
