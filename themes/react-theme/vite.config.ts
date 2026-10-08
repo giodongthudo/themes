@@ -4,7 +4,7 @@ import blogger from 'blogger-plugin/vite';
 import { defineConfig } from 'vite';
 import * as packageJson from './package.json' with { type: 'json' };
 
-const REPOSITORY = 'blogger-themes/themes';
+const REPOSITORY = 'giodongthudo/themes';
 const DEV_BRANCH = 'static-dev';
 
 const APP_BASE =
