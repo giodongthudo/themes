@@ -20,12 +20,12 @@ export default function Footer() {
 					<p className="text-muted-foreground text-sm">
 						Made with 🤍 by{' '}
 						<a
-							href="https://github.com/kumardeo"
+							href="https://www.giodongthudo.com"
 							className="text-foreground"
 							target="_blank"
-							rel="noopener"
+							
 						>
-							Deo Kumar
+							Gió Đông Thủ Đô
 						</a>
 						!
 					</p>
@@ -34,12 +34,12 @@ export default function Footer() {
 					{[
 						{
 							label: 'Github',
-							link: 'https://github.com/kumardeo',
+							link: 'https://giodongthudo.com',
 							icon: SiGithub,
 						},
 						{
 							label: 'Email',
-							link: 'mailto:deo@fineshopdesign.com',
+							link: 'mailto:lien-@giodongthudo.com',
 							icon: MailIcon,
 						},
 					].map(({ label, link, icon: Icon }) => (
