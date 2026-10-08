@@ -19,7 +19,7 @@ export default defineConfig({
 	base: APP_BASE,
 	plugins: [
 		blogger({
-			proxyBlog: 'https://react-template-preview.blogspot.com',
+			proxyBlog: 'https://www.giodongthudo.com',
 			modules: ['src/index.tsx'],
 			styles: ['src/styles/globals.css'],
 			template: 'src/template.xml',
